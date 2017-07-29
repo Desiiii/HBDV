@@ -17,7 +17,7 @@ description: "Tout le Hybridverse a été pensé progressivement. Apprendre un p
 
 
 ### L'origine de Hybridverse
-Tout le Hybridverse a été pensé progressivement, commençant par **Journal de Viktor**, suivi par **Hybridverse I***, et finalement autres livres qui doivent encore être annoncés.
+Tout le Hybridverse a été pensé progressivement, commençant par **Journal de Viktor**, suivi par **Hybridverse I**, et finalement autres livres qui doivent encore être annoncés.
 
 Malgré cela, plusieurs livres ont été et sont écrits en même temps, créer des histoires reliées entre elles.
 
