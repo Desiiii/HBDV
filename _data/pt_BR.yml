@@ -4,6 +4,7 @@ description: >
 
 index: inicio/
 feed: /feeds/pt_BR.xml
+flag: /assets/imgs/flags/BR.png
 
 i18n:
     footer:
