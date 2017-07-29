@@ -3,7 +3,7 @@
 layout: page
 comments: true
 ref: "about"
-lang: en
+lang: en_US
 
 title: About
 permalink: /about/
