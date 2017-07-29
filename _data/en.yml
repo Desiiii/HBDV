@@ -1,0 +1,28 @@
+title: Hybridverse
+description: >
+    Hybridverse is a collection of stories created by AdrianTodt.
+
+index:
+feed: /feeds/en.xml
+
+keywords: "hybridverse, hbdv, hybrids, furry, diaries, dragons, books, david, lotus, viktor, lucian, anna, cendres, nightny, royale, felipe"
+
+i18n:
+    footer:
+        illustrations: "Illustrations made by "
+    home:
+        stay_updated_1: "Stay updated via "
+        stay_updated_2: "our RSS"
+        stay_updated_3: "!"
+    posts:
+        chapter: "Chapter "
+        published: "Published: "
+
+#TODO ENGLISH DISCORD
+discord:
+    guild_id: "317353073230086154"
+    invite: kNsNawY
+
+#TODO ENGLISH DISQUS
+disqus_shortname: "hbdv"
+

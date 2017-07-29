@@ -1,0 +1,29 @@
+title: Hybridverse
+description: >
+    Hybridverse é uma série de histórias criadas por AdrianTodt.
+
+index: inicio/
+feed: /feeds/pt_BR.xml
+
+i18n:
+    footer:
+        illustrations: "Ilustrações feitas por "
+    home:
+        stay_updated_1: "Mantenha-se sempre atualizado pelo "
+        stay_updated_2: "nosso RSS"
+        stay_updated_3: "!"
+    posts:
+        chapter: "Capítulo "
+        published: "Publicado em: "
+
+series:
+    hbdv1:
+        title: "Hybridverse I"
+    viktor:
+        title: "Diário do Viktor"
+
+discord:
+    guild_id: "317353073230086154"
+    invite: kNsNawY
+
+disqus_shortname: "hbdv"

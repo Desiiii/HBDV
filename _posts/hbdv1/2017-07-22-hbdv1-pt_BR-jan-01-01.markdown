@@ -1,0 +1,337 @@
+---
+
+layout: post
+comments: true
+ref: hbdv1-jan-01-01
+lang: pt_BR
+
+title: "Segunda-feira, 01 de Janeiro, Ano 1"
+date: 2017-07-22T09:38:04-03:00
+categories: hbdv1
+
+series: hbdv1
+chapter: 1
+
+keywords: "hybridverse, hbdv, david, lotus, diário, livro, anna, cendres, lucian, começo, lobos"
+description: "Acordo. Algo está errado. Eu sinto isso..."
+
+---
+
+Acordo.
+
+Algo está errado. Eu sinto isso.
+
+Pelo. Muito pelo.
+
+Pera, eu sou um... lobo branco agora?
+
+Eu devo estar sonhando. Decido acordar a {%char Anna%}.
+
+>-- Anna, você está b..
+>
+>-- Oi am..
+>
+>-- AAAAAAAAAAAAAAAAA
+>
+>-- AAAAAAAAAAAAAAAAA
+>
+>-- {%char Anna%} voc...
+>
+>-- {%char DAVID%}? VOCÊ ESTÁ PARECENDO UM LOBO.
+>
+>-- VOCÊ TAMBÉM!
+>
+>-- Mas o qu... AAAAAAAAAAAAAAAAA
+>
+>-- Você... Você...
+>
+>-- Eu o quê?
+>
+>-- VOCÊ TEM UMA CAUDA!
+>
+>-- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+>
+>-- Olha só, eu também tenho!
+
+...
+
+Hora de tentar se recompor depois dessa.
+
+Nós acordamos e estávamos... *esquisitos*. Na verdade, a gente parecia mais um lobo do que uma pessoa. A {%char Anna%} estava chocada. Pobre {%char Anna%}.
+
+>-- Alguma ideia do que fazer, {%char David%}?
+
+Eu precisava saber uma coisa: Se mais pessoas, na cidade, foram afetadas.
+
+>-- Uhhhhhhh, deixa eu olhar pela jane...
+>
+>-- Você está louco??? E se alguém nos ver... nesse... Estado?
+
+Puxo ela pro canto da parede. Eu sei que para ela a aparência é tudo, mas eu tenho que checar uma coisa. Abro a janela.
+
+Sol.
+
+Ai o Sol ofuscante.
+
+>-- É... Eu vejo.. Anna você tem que ver isso.
+>
+>-- O que?
+>
+>-- Só. Olhe.
+
+A cidade estava um caos total. Todos híbridos. Todos.
+
+>-- Olha pelo lado bom: Nós não temos que nos preocupar em sermos os "esquisitos"...
+>
+>-- {%char DAVID%}!
+>
+>-- Foi mal. Bem, nós temos que nos arrumar. Não podemos ficar aqui.
+>
+>-- Mas... E essa... CAUDA?!
+>
+>-- Temos que dar um jeitinho...
+
+"Jeitinho". Basicamente tentamos vestir alguma roupa. E tivemos que brigar entre sair com a nossa roupa favorita... e a nossa cauda. A cauda venceu. {%char Anna%} resmunga.
+
+>-- É um saco ter uma cauda. Não consigo encontrar uma saia que se encaixe com uma cauda.
+>
+>-- Eu só acho que as regras de moda não são aplicáveis nessa situação...
+
+Após uma longa briga com o guarda-roupa, saímos de casa.
+
+A cidade estava um caos. Mais caótico do em casa. Ah, o caos. {%char Anna%} estava inquieta.
+
+>-- O pessoal dá cidade não parece estar muito... bem...
+
+Ignorei ela por um momento. Estava tentando entender tudo ao meu redor. *O Bruxo*. Será que...
+
+>-- {%char Anna%}, nós temos que ir a um lugar.
+>
+>-- Onde?
+>
+>-- Na casa de um amigo...
+
+E fomos em direção a casa de um *amigo* meu.
+
+**...**
+
+No meio do caminho, começamos a correr.
+
+Cada passo parecia mais fácil.
+
+Meus instintos ficavam cada vez mais fortes.
+
+Foi uma experiência totalmente estranha.
+
+Era como se só existisse eu, a {%char Anna%}, e o mato do chão.
+
+Foi esquisito, mas, ao mesmo tempo, libertador.
+
+Liberdade.
+
+Não durou muito. A gente chegou na torre depois da corrida.
+
+Ofegantes, nos deitamos num gramado, perto da torre, no topo da colina onde a torre se encontrava. Estava perplexo.
+
+>-- Então...
+>
+>-- É...
+>
+>-- Você teve a mesma sensação que a minha correndo?
+>
+>-- De liberdade?
+>
+>-- É...
+>
+>-- Sim... Foi estranho. Mas foi bom. Relaxante.
+>
+>-- Só eu, você, e a trilha. 
+>
+>-- É...
+>
+>-- Estou me perguntando agora...
+>
+>-- O quê?
+>
+>-- Se é assim... que você se sente... sendo um lobo?
+>
+>-- Hmm... É uma boa pergunta. Mas afinal, o que exatamente a gente veio fazer aqui?
+
+Me levanto.
+
+>-- Perguntar a um "amigo" meu algumas perguntas...
+>-- "Amigo"? Pera, é o...
+
+Tarde demais. Ele abriu a porta.
+
+>-- Saiam da minha prop...
+>
+>-- Erm... Oi.
+>
+>-- {%char DAVID%}! Tudo bem com você?
+>
+>-- Bom dia, {%char Lucian%}.
+>
+>-- O quê veio fazer por ai?
+>
+>-- Ehm... Conversar.
+
+{%char Anna%} se levanta. E não parece muito feliz.
+
+>  {%char Anna%}: Quem é... esse?
+>
+> {%char David%}: {%char Anna%}, esse é o {%char Lucian%}.
+>
+>{%char Lucian%}: Essa é a sua namorada?
+>
+> {%char David%}: É. A gente já está junto faz algum tempo.
+>
+>{%char Lucian%}: Hmm... Que tal vocês entrarem?
+
+**. . .**
+
+Entramos.
+
+Escuridão. Algumas tochas iluminando. Um pouquinho de sol vindo do topo da torre.
+
+A torre estava um pouco bagunçada. *Como sempre*.
+
+Sentamos em um sofá, em frente em uma mesa.
+
+*Lembranças*. Muitas lembranças da minha infância. {%char Lucian%} foi quase um avô para mim.
+
+Ele sentou na poltrona dele. Enquanto isso, {%char Anna%} continua inquieta.
+
+>  {%char Anna%}: Então... Como você exatamente conhece ele?
+>
+> {%char David%}: Bem, {%char Lucian%} é meu tio, mas ele foi um avô para mim. Um avô meio... estranho.
+>
+>{%char Lucian%}: Não sei por que, mas quando o {%char David%} era criança, ele gostava quando eu fazia alguma magia ou poção.
+>
+> {%char David%}: Eu ficava fascinado.
+>
+>{%char Lucian%}: Mas, afinal, algum motivo específico de vocês terem vindo aqui?
+>
+> {%char David%}: Erm... Sim. É que a gente gostaria de f...
+>
+>  {%char Anna%}: Primeiro de tudo, uma pergunta: Que meio-bicho você virou?
+
+Insensível. Por que fazer uma pergunta dessas logo de cara? Preferi não comentar.
+
+>{%char Lucian%}: É... Isso é um pouco engraçado. Eu virei um meio-morcego. É engraçado considerando que eu gosto mais de ficar no escuro.
+>
+>  {%char Anna%}: E... por que exatamente você não está como um morcego voando por aí?
+>
+>{%char Lucian%}: Ah, é por que eu estou usando esse amuleto no pescoço.
+>
+>  {%char Anna%}: Então que dizer que com um amuleto eu posso parar de ser menos... assim?
+>
+>{%char Lucian%}: Sim, mas...
+>
+>  {%char Anna%}: Perfeito. Me DÊ UM AMULETO AGORA.
+>
+> {%char David%}: {%char ANNA%}, acalme-se.
+>
+>{%char Lucian%}: Não é tão simples. O seu amuleto é um objeto pelo qual você tem muito afeto. Pode ser um colar, um brinco, um bracelete, ou até mesmo um relógio.
+>
+> {%char David%}: Interessante... Mas... como exatamente você sabe disso?
+>
+>{%char Lucian%}: É-é que...
+
+Respiro fundo. A {%char Anna%} vai matar ele.
+
+> {%char David%}: Foi... foi você que causou essa praga, né?
+>
+>{%char Lucian%}: É-é-é... De certa forma, Sim.
+
+Será que eu deveria ter comprado um seguro de vida para o {%char Lucian%}?
+
+>  {%char Anna%}: VOCÊ O QUÊ? POR QUE VOCÊ FEZ ISSO SEU CANALHA? OLHA COMO VOCÊ ME DEIXOU? EU TENHO PELO ATÉ NA MINH...
+
+Ainda bem que ele me ensinou um pouco de magia. Faço rapidamente uns movimentos com o indicador e imobilizo a {%char Anna%} com magia. Foi necessário. Ela sabe lutar.
+
+>  {%char Anna%}: ... É o que? Por que eu... {%char DAVID%}, FOI VOCÊ QUE ME...
+>
+> {%char David%}: Se... acalme...
+>
+>  {%char Anna%}: Me acalmar? Mas ele... E eu... E você...
+>
+> {%char David%}: Essa foi uma das poucas magias que o {%char Lucian%} me ensinou. E antes de você o matar, eu preciso fazer umas perguntas para ele.
+>
+>  {%char Anna%}: hmph... Tà bom. Mas você poderia me tirar dessa... Coisa?
+
+{%char Lucian%} engole seco. Estalo os dedos. A magia se desfaz. A {%char Anna%} senta no sofá de novo, com os braços cruzados.
+
+> {%char David%}: Então... Deixa eu ver se eu entendi: Você que fez essa praga, por assim dizer.
+>
+>{%char Lucian%}: É-é. Foi sem querer. Eu estava fazendo umas magias, quando eu aparentemente quebrei um selo dessa torre. E uma antiga magia foi ativada. Não deu tempo para re-selar a magia a tempo de evitar isso.
+>
+> {%char David%}: E como exatamente você descobriu a parte dos amuletos?
+>
+>{%char Lucian%}: Antes da magia selada ficar inativa novamente, eu "copiei" o desenho mágico dela para um papel. E nele eu vi essas coisas.
+>
+> {%char David%}: Posso ver esse papel?
+>
+>{%char Lucian%}: Bem, está quase na hora do almoço. Que tal eu preparar uma comida e a gente vê isso daqui a pouco.
+>
+>  {%char Anna%}: Apesar de eu estar com pressa para sair dessa forma... eu concordo com o almoço.
+>
+> {%char David%}: Um almoço ia bem...
+
+Depois do almoço, subimos no andar de pesquisas da torre. Uma escrivaninha cheia de papéis, um altar de encantamentos, uma mesa de alquimia e vários armários compunham o andar. Rodeamos a escrivaninha, de onde {%char Lucian%} abriu um papel, que era bem ilegível.
+
+>{%char Lucian%}: B-bem, essa é a cópia da sequência mágica. Aqui é o início, que por acaso foi onde eu quebrei o selo. E vai por várias partes como seleção de alvos, procura de objetos, o encantamento do objeto e, por fim, um selo de trava nesse amuleto.
+>
+>  {%char Anna%}: Isso tudo parece muito complicado para mim... Por quê vocês fazem magias que parecem circuitos eletrônicos?
+>
+> {%char David%}: Aparentemente os magos inventaram a computação... Eles só fizeram computadores usando eletricidade em vez de Mana. Mas afinal, que tipo de selo é esse?
+>
+>{%char Lucian%}: É um selo de combinação, mas a combinação do selo está no meio da magia. É fascinante como eles usaram a própria magia para fazer essa trava.
+>
+> {%char David%}: Mas você consegue decifrar a combinação?
+>
+>{%char Lucian%}: Talvez em alguns dias?
+>
+>  {%char Anna%}: DIAS? Eu não quero ficar assim por mais tempo...
+>
+> {%char David%}: Se acalma, {%char Anna%}.
+
+Depois de muito tempo tentando decifrar a magia, e de um café da tarde, a gente saiu da torre.
+
+>{%char Lucian%}: Vocês vão voltar Amanhã?
+>
+> {%char David%}: É... Provavelmente. Mas nós vamos primeiro procurar o nosso amuleto...
+>
+>{%char Lucian%}: Entendo. Bem, estarei esperando.
+
+Começamos a descer a colina. {%char Anna%} estava um pouco agitada.
+
+> {%char Anna%}: E ai, quer apostar uma corrida até em casa?
+>
+>{%char David%}: Hm.. eu acho que...
+>
+> {%char Anna%}: Não ache, vença!
+
+Ela saiu correndo. Corri logo atrás.
+
+Me deixei ser levado novamente por aquela sensação. *Liberdade*.
+
+Chegamos em casa. Colocamos todas as nossas coisas na mesa da sala e nos deitamos na cama no nosso quarto.
+
+Silêncio. A {%char Anna%} parecia um pouco triste.
+
+>-- O quê foi, {%char Anna%}?
+>
+>-- Queria que isso fosse apenas um sonho bem longo, ou mais um pesadelo.
+>
+>-- Você... não gosta da sua forma?
+>
+>-- E por acaso você gosta?
+>
+>-- Eu sinceramente não liguei muito pra isso. Mas eu me preocupo com você.
+>
+>-- Espero... que isso acabe logo.
+>
+>-- Eu também.
+
+Eu também, {%char Anna%}. *Eu também*...
