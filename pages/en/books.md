@@ -3,10 +3,10 @@
 layout: page
 comments: true
 ref: "books"
-lang: pt_BR
+lang: en
 
-title: "Livros"
-permalink: /livros/
+title: "Books"
+permalink: /books/
 
 keywords: "hybridverse, hbdv, nightny, royale, diário, começo, livro, dragões, david, lotus, viktor, anna, cendres, felipe, kaotine"
 description: "Find out what are the Hybridverse books!"
