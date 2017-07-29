@@ -8,18 +8,18 @@ lang: en_US
 title: "Characters"
 permalink: /characters/
 
-keywords: "hybridverse, hbdv, nightny, royale, diário, começo, livro, dragões, david, lotus, viktor, anna, cendres, felipe, kaotine, personagens"
+keywords: "hybridverse, hbdv, nightny, royale, diário, beggining, livro, dragons, david, lotus, viktor, anna, cendres, felipe, kaotine, characters"
 description: "Find out what are the Hybridverse's characters!"
 
 ---
 
-## Personagens Principais:
+## Main characters:
 
 ### {%char David%}
 
 
-**{%char David%}** é o narrador e personagem principal das série **Hybridverse I**.
-Ele é um universitário e namora a {%char Anna%}. Sempre calmo, ele consegue resolver com facilidade os problemas que acontecem durante as séries.
+**{%char David%}** is the narrator and main character of the series **Hybridverse I** e **II**.
+He is a college and he's dating {%char Anna%}. Always calm, he can easily solve the problems that occur during the series.
 
 {%imgrow%}
 {%imgc /assets/imgs/david.png%}
@@ -28,10 +28,7 @@ Ele é um universitário e namora a {%char Anna%}. Sempre calmo, ele consegue re
 
 ### {%char Anna%}
 
-**{%char Anna%}**, a namorada do {%char David%}.
-Ela é uma universitária e impulsiva, podendo atacar alguém com algum golpe de artes marciais.
-{%comment%}Ela narra o **Hybridverse: Dragonlings**, durante a sua incessante busca por re-encontrar {%char David%}.
-{%endcomment%}
+**{%char Anna%}** is {%char David%}'s girlfriend. She's impulsive, but finds confort in life by living together with {%char David%}. She also hated the hybrid plague, and makes a point of stating this.
 
 {%imgrow%}
 {%imgc /assets/imgs/anna.png%}
@@ -40,9 +37,8 @@ Ela é uma universitária e impulsiva, podendo atacar alguém com algum golpe de
 
 ### {%char Viktor%}
 
-**{%char Viktor%}** acordou sem suas lembranças e com apenas uma dica de qual é o seu nome.
-{%comment%}Ele também é o personagem observado por {%char Anna%} no **Hybridverse: Dragonlings**.
-{%endcomment%}Sua maior preocupação é correr atrás do seu passado{%comment%}, que acabará, curiosamente, por mudar a vida dele{%endcomment%}.
+**{%char Viktor%}** woke up without his memories and with just a hint of what his name is.
+His biggest concern is to run after his past.
 
 {%imgrow%}
 {%imgc /assets/imgs/viktor.png%}
@@ -51,20 +47,20 @@ Ela é uma universitária e impulsiva, podendo atacar alguém com algum golpe de
 {%comment%}
 ### {%char Nightny%}
 
-**{%char Nightny%}** aparece na segunda metade do **Diário do {%char Viktor%}**, e acaba se tornando a companheira do {%char Viktor%}.
-Inicialmente não-humana, ela ajuda {%char Viktor%} e seu grupo na dimensão caótica.
+**{%char Nightny%}** appears in the second half of the book **{%char Viktor%}'s Journal**, and ends up being his companion and girlfriend.
+Although not human, she helps {%char Viktor%} and his friend to exit the chaotic universe.
 
 {%imgrow%}
 {%imgc /assets/imgs/nightny.png%}
 {%endrow%}
 {%endcomment%}
 
-## Personagens Secundários:
+## Secondary characters:
 
 ### {%char Lucian%}
 
-**{%char Lucian%}** é o tio do {%char David%} e, de certa forma, o causador da praga.
+**{%char Lucian%}**Lucian is {%char David%}'s uncle, and, in a way, the person who caused the plague.
 
 ### {%char Felipe%}
 
-**{%char Felipe%}** é só uma pessoa comum que teve a sorte (ou azar) de encontrar {%char Viktor%} no meio do caminho.
+**{%char Felipe%}** Felipe is just an ordinary person who was lucky (or unlucky) to find {%char Viktor%} while running away from some weird creatures.

@@ -18,7 +18,7 @@ description: "Saiba mais sobre os personagens de Hybridverse!"
 ### {%char David%}
 
 
-**{%char David%}** é o narrador e personagem principal das série **Hybridverse I**.
+**{%char David%}** é o narrador e personagem principal das séries **Hybridverse I** e **II**.
 Ele é um universitário e namora a {%char Anna%}. Sempre calmo, ele consegue resolver com facilidade os problemas que acontecem durante as séries.
 
 {%imgrow%}
@@ -28,8 +28,7 @@ Ele é um universitário e namora a {%char Anna%}. Sempre calmo, ele consegue re
 
 ### {%char Anna%}
 
-**{%char Anna%}**, a namorada do {%char David%}.
-Ela é uma universitária e impulsiva, podendo atacar alguém com algum golpe de artes marciais.
+**{%char Anna%}** é a namorada do {%char David%}. Ela é impulsiva, mas descobriu a sua zona de conforto ao lado de {%char David%}. Ela também foi quem mais odiou a praga, e faz questão de afirmar isso.
 {%comment%}Ela narra o **Hybridverse: Dragonlings**, durante a sua incessante busca por re-encontrar {%char David%}.
 {%endcomment%}
 
