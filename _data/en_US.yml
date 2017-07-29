@@ -8,6 +8,18 @@ flag: /assets/imgs/flags/US.png
 
 keywords: "hybridverse, hbdv, hybrids, furry, diaries, dragons, books, david, lotus, viktor, lucian, anna, cendres, nightny, royale, felipe"
 
+series:
+    hbdv1:
+        title: Hybridverse I
+    hbdv2:
+        title: Hybridverse II
+    viktor:
+        title: Viktor's Journal
+    anna:
+        title: Anna's Journal
+    nightny:
+        title: ightny's Journal
+
 i18n:
     footer:
         illustrations: "Illustrations made by "

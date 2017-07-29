@@ -6,6 +6,18 @@ index: inicio/
 feed: /feeds/pt_BR.xml
 flag: /assets/imgs/flags/BR.png
 
+series:
+    hbdv1:
+        title: Hybridverse I
+    hbdv2:
+        title: Hybridverse II
+    viktor:
+        title: Diário do Viktor
+    anna:
+        title: Diário da Anna
+    nightny:
+        title: Diário da Nightny
+
 i18n:
     footer:
         illustrations: "Ilustrações feitas por "

@@ -14,12 +14,12 @@ description: "Saiba quais são os livros do Hybridverse!"
 ---
 
 ## Hybridverse I
-<small>**Status**: Capítulos sendo Escritos e Postados. — [Iniciar Leitura >>](/hbdv1/hbdv1-01-01-01.html)</small>
+<small>**Status**: Capítulos sendo Escritos e Postados. — [Iniciar Leitura >>](/hbdv1/hbdv1-pt_BR-jan-01-01.html)</small>
 
 Após as festas de ano novo, todos acordam no dia seguinte... como **animais**?
 
 ## Diário do Viktor
-<small>**Status**: Completo; Capítulos sendo Postados. — [Iniciar Leitura >>](/viktor/viktor-05-03-01.html)</small>
+<small>**Status**: Completo; Capítulos sendo Postados. — [Iniciar Leitura >>](/viktor/viktor-pt_BR-mar-05-01.html)</small>
 
 Viktor acorda. Está no meio do nada, sem suas memórias, e com apenas a sua mochila. Como ele vai **relembrar** do seu passado?
 
